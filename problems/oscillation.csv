@@ -1,0 +1,201 @@
+id,family,template,param,value,a,b,c,lambda,f,g,a_min,delta
+1,oscillation,solution_freq,omega,5,1,0,0,5,exp(-x**2)*cos(5.0*x),-(20.0*x*sin(5.0*x) + 2*(2*x**2 - 1)*cos(5.0*x) - 25.0*cos(5.0*x))*exp(-x**2) + 5*exp(-x**2)*cos(5.0*x),1,5
+2,oscillation,solution_freq,omega,5.253,1,0,0,5,exp(-x**2)*cos(5.253*x),-(21.012*x*sin(5.253*x) + 2*(2*x**2 - 1)*cos(5.253*x) - 27.594009*cos(5.253*x))*exp(-x**2) + 5*exp(-x**2)*cos(5.253*x),1,5
+3,oscillation,solution_freq,omega,5.505,1,0,0,5,exp(-x**2)*cos(5.505*x),-(22.02*x*sin(5.505*x) + 2*(2*x**2 - 1)*cos(5.505*x) - 30.305025*cos(5.505*x))*exp(-x**2) + 5*exp(-x**2)*cos(5.505*x),1,5
+4,oscillation,solution_freq,omega,5.758,1,0,0,5,exp(-x**2)*cos(5.758*x),-(23.032*x*sin(5.758*x) + 2*(2*x**2 - 1)*cos(5.758*x) - 33.154564*cos(5.758*x))*exp(-x**2) + 5*exp(-x**2)*cos(5.758*x),1,5
+5,oscillation,solution_freq,omega,6.01,1,0,0,5,exp(-x**2)*cos(6.01*x),-(24.04*x*sin(6.01*x) + 2*(2*x**2 - 1)*cos(6.01*x) - 36.1201*cos(6.01*x))*exp(-x**2) + 5*exp(-x**2)*cos(6.01*x),1,5
+6,oscillation,solution_freq,omega,6.263,1,0,0,5,exp(-x**2)*cos(6.263*x),-(25.052*x*sin(6.263*x) + 2*(2*x**2 - 1)*cos(6.263*x) - 39.225169*cos(6.263*x))*exp(-x**2) + 5*exp(-x**2)*cos(6.263*x),1,5
+7,oscillation,solution_freq,omega,6.515,1,0,0,5,exp(-x**2)*cos(6.515*x),-(26.06*x*sin(6.515*x) + 2*(2*x**2 - 1)*cos(6.515*x) - 42.445225*cos(6.515*x))*exp(-x**2) + 5*exp(-x**2)*cos(6.515*x),1,5
+8,oscillation,solution_freq,omega,6.768,1,0,0,5,exp(-x**2)*cos(6.768*x),-(27.072*x*sin(6.768*x) + 2*(2*x**2 - 1)*cos(6.768*x) - 45.805824*cos(6.768*x))*exp(-x**2) + 5*exp(-x**2)*cos(6.768*x),1,5
+9,oscillation,solution_freq,omega,7.02,1,0,0,5,exp(-x**2)*cos(7.02*x),-(28.08*x*sin(7.02*x) + 2*(2*x**2 - 1)*cos(7.02*x) - 49.2804*cos(7.02*x))*exp(-x**2) + 5*exp(-x**2)*cos(7.02*x),1,5
+10,oscillation,solution_freq,omega,7.273,1,0,0,5,exp(-x**2)*cos(7.273*x),-(29.092*x*sin(7.273*x) + 2*(2*x**2 - 1)*cos(7.273*x) - 52.896529*cos(7.273*x))*exp(-x**2) + 5*exp(-x**2)*cos(7.273*x),1,5
+11,oscillation,solution_freq,omega,7.525,1,0,0,5,exp(-x**2)*cos(7.525*x),-(30.1*x*sin(7.525*x) + 2*(2*x**2 - 1)*cos(7.525*x) - 56.625625*cos(7.525*x))*exp(-x**2) + 5*exp(-x**2)*cos(7.525*x),1,5
+12,oscillation,solution_freq,omega,7.778,1,0,0,5,exp(-x**2)*cos(7.778*x),-(31.112*x*sin(7.778*x) + 2*(2*x**2 - 1)*cos(7.778*x) - 60.497284*cos(7.778*x))*exp(-x**2) + 5*exp(-x**2)*cos(7.778*x),1,5
+13,oscillation,solution_freq,omega,8.03,1,0,0,5,exp(-x**2)*cos(8.03*x),-(32.12*x*sin(8.03*x) + 2*(2*x**2 - 1)*cos(8.03*x) - 64.4809*cos(8.03*x))*exp(-x**2) + 5*exp(-x**2)*cos(8.03*x),1,5
+14,oscillation,solution_freq,omega,8.283,1,0,0,5,exp(-x**2)*cos(8.283*x),-(33.132*x*sin(8.283*x) + 2*(2*x**2 - 1)*cos(8.283*x) - 68.608089*cos(8.283*x))*exp(-x**2) + 5*exp(-x**2)*cos(8.283*x),1,5
+15,oscillation,solution_freq,omega,8.535,1,0,0,5,exp(-x**2)*cos(8.535*x),-(34.14*x*sin(8.535*x) + 2*(2*x**2 - 1)*cos(8.535*x) - 72.846225*cos(8.535*x))*exp(-x**2) + 5*exp(-x**2)*cos(8.535*x),1,5
+16,oscillation,solution_freq,omega,8.788,1,0,0,5,exp(-x**2)*cos(8.788*x),-(35.152*x*sin(8.788*x) + 2*(2*x**2 - 1)*cos(8.788*x) - 77.228944*cos(8.788*x))*exp(-x**2) + 5*exp(-x**2)*cos(8.788*x),1,5
+17,oscillation,solution_freq,omega,9.04,1,0,0,5,exp(-x**2)*cos(9.04*x),-(36.16*x*sin(9.04*x) + 2*(2*x**2 - 1)*cos(9.04*x) - 81.7216*cos(9.04*x))*exp(-x**2) + 5*exp(-x**2)*cos(9.04*x),1,5
+18,oscillation,solution_freq,omega,9.293,1,0,0,5,exp(-x**2)*cos(9.293*x),-(37.172*x*sin(9.293*x) + 2*(2*x**2 - 1)*cos(9.293*x) - 86.359849*cos(9.293*x))*exp(-x**2) + 5*exp(-x**2)*cos(9.293*x),1,5
+19,oscillation,solution_freq,omega,9.545,1,0,0,5,exp(-x**2)*cos(9.545*x),-(38.18*x*sin(9.545*x) + 2*(2*x**2 - 1)*cos(9.545*x) - 91.107025*cos(9.545*x))*exp(-x**2) + 5*exp(-x**2)*cos(9.545*x),1,5
+20,oscillation,solution_freq,omega,9.798,1,0,0,5,exp(-x**2)*cos(9.798*x),-(39.192*x*sin(9.798*x) + 2*(2*x**2 - 1)*cos(9.798*x) - 96.000804*cos(9.798*x))*exp(-x**2) + 5*exp(-x**2)*cos(9.798*x),1,5
+21,oscillation,solution_freq,omega,10.05,1,0,0,5,exp(-x**2)*cos(10.05*x),-(40.2*x*sin(10.05*x) + 2*(2*x**2 - 1)*cos(10.05*x) - 101.0025*cos(10.05*x))*exp(-x**2) + 5*exp(-x**2)*cos(10.05*x),1,5
+22,oscillation,solution_freq,omega,10.3,1,0,0,5,exp(-x**2)*cos(10.3*x),-(41.2*x*sin(10.3*x) + 2*(2*x**2 - 1)*cos(10.3*x) - 106.09*cos(10.3*x))*exp(-x**2) + 5*exp(-x**2)*cos(10.3*x),1,5
+23,oscillation,solution_freq,omega,10.56,1,0,0,5,exp(-x**2)*cos(10.56*x),-(42.24*x*sin(10.56*x) + 2*(2*x**2 - 1)*cos(10.56*x) - 111.5136*cos(10.56*x))*exp(-x**2) + 5*exp(-x**2)*cos(10.56*x),1,5
+24,oscillation,solution_freq,omega,10.81,1,0,0,5,exp(-x**2)*cos(10.81*x),-(43.24*x*sin(10.81*x) + 2*(2*x**2 - 1)*cos(10.81*x) - 116.8561*cos(10.81*x))*exp(-x**2) + 5*exp(-x**2)*cos(10.81*x),1,5
+25,oscillation,solution_freq,omega,11.06,1,0,0,5,exp(-x**2)*cos(11.06*x),-(44.24*x*sin(11.06*x) + 2*(2*x**2 - 1)*cos(11.06*x) - 122.3236*cos(11.06*x))*exp(-x**2) + 5*exp(-x**2)*cos(11.06*x),1,5
+26,oscillation,solution_freq,omega,11.31,1,0,0,5,exp(-x**2)*cos(11.31*x),-(45.24*x*sin(11.31*x) + 2*(2*x**2 - 1)*cos(11.31*x) - 127.9161*cos(11.31*x))*exp(-x**2) + 5*exp(-x**2)*cos(11.31*x),1,5
+27,oscillation,solution_freq,omega,11.57,1,0,0,5,exp(-x**2)*cos(11.57*x),-(46.28*x*sin(11.57*x) + 2*(2*x**2 - 1)*cos(11.57*x) - 133.8649*cos(11.57*x))*exp(-x**2) + 5*exp(-x**2)*cos(11.57*x),1,5
+28,oscillation,solution_freq,omega,11.82,1,0,0,5,exp(-x**2)*cos(11.82*x),-(47.28*x*sin(11.82*x) + 2*(2*x**2 - 1)*cos(11.82*x) - 139.7124*cos(11.82*x))*exp(-x**2) + 5*exp(-x**2)*cos(11.82*x),1,5
+29,oscillation,solution_freq,omega,12.07,1,0,0,5,exp(-x**2)*cos(12.07*x),-(48.28*x*sin(12.07*x) + 2*(2*x**2 - 1)*cos(12.07*x) - 145.6849*cos(12.07*x))*exp(-x**2) + 5*exp(-x**2)*cos(12.07*x),1,5
+30,oscillation,solution_freq,omega,12.32,1,0,0,5,exp(-x**2)*cos(12.32*x),-(49.28*x*sin(12.32*x) + 2*(2*x**2 - 1)*cos(12.32*x) - 151.7824*cos(12.32*x))*exp(-x**2) + 5*exp(-x**2)*cos(12.32*x),1,5
+31,oscillation,solution_freq,omega,12.58,1,0,0,5,exp(-x**2)*cos(12.58*x),-(50.32*x*sin(12.58*x) + 2*(2*x**2 - 1)*cos(12.58*x) - 158.2564*cos(12.58*x))*exp(-x**2) + 5*exp(-x**2)*cos(12.58*x),1,5
+32,oscillation,solution_freq,omega,12.83,1,0,0,5,exp(-x**2)*cos(12.83*x),-(51.32*x*sin(12.83*x) + 2*(2*x**2 - 1)*cos(12.83*x) - 164.6089*cos(12.83*x))*exp(-x**2) + 5*exp(-x**2)*cos(12.83*x),1,5
+33,oscillation,solution_freq,omega,13.08,1,0,0,5,exp(-x**2)*cos(13.08*x),-(52.32*x*sin(13.08*x) + 2*(2*x**2 - 1)*cos(13.08*x) - 171.0864*cos(13.08*x))*exp(-x**2) + 5*exp(-x**2)*cos(13.08*x),1,5
+34,oscillation,solution_freq,omega,13.33,1,0,0,5,exp(-x**2)*cos(13.33*x),-(53.32*x*sin(13.33*x) + 2*(2*x**2 - 1)*cos(13.33*x) - 177.6889*cos(13.33*x))*exp(-x**2) + 5*exp(-x**2)*cos(13.33*x),1,5
+35,oscillation,solution_freq,omega,13.59,1,0,0,5,exp(-x**2)*cos(13.59*x),-(54.36*x*sin(13.59*x) + 2*(2*x**2 - 1)*cos(13.59*x) - 184.6881*cos(13.59*x))*exp(-x**2) + 5*exp(-x**2)*cos(13.59*x),1,5
+36,oscillation,solution_freq,omega,13.84,1,0,0,5,exp(-x**2)*cos(13.84*x),-(55.36*x*sin(13.84*x) + 2*(2*x**2 - 1)*cos(13.84*x) - 191.5456*cos(13.84*x))*exp(-x**2) + 5*exp(-x**2)*cos(13.84*x),1,5
+37,oscillation,solution_freq,omega,14.09,1,0,0,5,exp(-x**2)*cos(14.09*x),-(56.36*x*sin(14.09*x) + 2*(2*x**2 - 1)*cos(14.09*x) - 198.5281*cos(14.09*x))*exp(-x**2) + 5*exp(-x**2)*cos(14.09*x),1,5
+38,oscillation,solution_freq,omega,14.34,1,0,0,5,exp(-x**2)*cos(14.34*x),-(57.36*x*sin(14.34*x) + 2*(2*x**2 - 1)*cos(14.34*x) - 205.6356*cos(14.34*x))*exp(-x**2) + 5*exp(-x**2)*cos(14.34*x),1,5
+39,oscillation,solution_freq,omega,14.6,1,0,0,5,exp(-x**2)*cos(14.6*x),-(58.4*x*sin(14.6*x) + 2*(2*x**2 - 1)*cos(14.6*x) - 213.16*cos(14.6*x))*exp(-x**2) + 5*exp(-x**2)*cos(14.6*x),1,5
+40,oscillation,solution_freq,omega,14.85,1,0,0,5,exp(-x**2)*cos(14.85*x),-(59.4*x*sin(14.85*x) + 2*(2*x**2 - 1)*cos(14.85*x) - 220.5225*cos(14.85*x))*exp(-x**2) + 5*exp(-x**2)*cos(14.85*x),1,5
+41,oscillation,solution_freq,omega,15.1,1,0,0,5,exp(-x**2)*cos(15.1*x),-(60.4*x*sin(15.1*x) + 2*(2*x**2 - 1)*cos(15.1*x) - 228.01*cos(15.1*x))*exp(-x**2) + 5*exp(-x**2)*cos(15.1*x),1,5
+42,oscillation,solution_freq,omega,15.35,1,0,0,5,exp(-x**2)*cos(15.35*x),-(61.4*x*sin(15.35*x) + 2*(2*x**2 - 1)*cos(15.35*x) - 235.6225*cos(15.35*x))*exp(-x**2) + 5*exp(-x**2)*cos(15.35*x),1,5
+43,oscillation,solution_freq,omega,15.61,1,0,0,5,exp(-x**2)*cos(15.61*x),-(62.44*x*sin(15.61*x) + 2*(2*x**2 - 1)*cos(15.61*x) - 243.6721*cos(15.61*x))*exp(-x**2) + 5*exp(-x**2)*cos(15.61*x),1,5
+44,oscillation,solution_freq,omega,15.86,1,0,0,5,exp(-x**2)*cos(15.86*x),-(63.44*x*sin(15.86*x) + 2*(2*x**2 - 1)*cos(15.86*x) - 251.5396*cos(15.86*x))*exp(-x**2) + 5*exp(-x**2)*cos(15.86*x),1,5
+45,oscillation,solution_freq,omega,16.11,1,0,0,5,exp(-x**2)*cos(16.11*x),-(64.44*x*sin(16.11*x) + 2*(2*x**2 - 1)*cos(16.11*x) - 259.5321*cos(16.11*x))*exp(-x**2) + 5*exp(-x**2)*cos(16.11*x),1,5
+46,oscillation,solution_freq,omega,16.36,1,0,0,5,exp(-x**2)*cos(16.36*x),-(65.44*x*sin(16.36*x) + 2*(2*x**2 - 1)*cos(16.36*x) - 267.6496*cos(16.36*x))*exp(-x**2) + 5*exp(-x**2)*cos(16.36*x),1,5
+47,oscillation,solution_freq,omega,16.62,1,0,0,5,exp(-x**2)*cos(16.62*x),-(66.48*x*sin(16.62*x) + 2*(2*x**2 - 1)*cos(16.62*x) - 276.2244*cos(16.62*x))*exp(-x**2) + 5*exp(-x**2)*cos(16.62*x),1,5
+48,oscillation,solution_freq,omega,16.87,1,0,0,5,exp(-x**2)*cos(16.87*x),-(67.48*x*sin(16.87*x) + 2*(2*x**2 - 1)*cos(16.87*x) - 284.5969*cos(16.87*x))*exp(-x**2) + 5*exp(-x**2)*cos(16.87*x),1,5
+49,oscillation,solution_freq,omega,17.12,1,0,0,5,exp(-x**2)*cos(17.12*x),-(68.48*x*sin(17.12*x) + 2*(2*x**2 - 1)*cos(17.12*x) - 293.0944*cos(17.12*x))*exp(-x**2) + 5*exp(-x**2)*cos(17.12*x),1,5
+50,oscillation,solution_freq,omega,17.37,1,0,0,5,exp(-x**2)*cos(17.37*x),-(69.48*x*sin(17.37*x) + 2*(2*x**2 - 1)*cos(17.37*x) - 301.7169*cos(17.37*x))*exp(-x**2) + 5*exp(-x**2)*cos(17.37*x),1,5
+51,oscillation,solution_freq,omega,17.63,1,0,0,5,exp(-x**2)*cos(17.63*x),-(70.52*x*sin(17.63*x) + 2*(2*x**2 - 1)*cos(17.63*x) - 310.8169*cos(17.63*x))*exp(-x**2) + 5*exp(-x**2)*cos(17.63*x),1,5
+52,oscillation,solution_freq,omega,17.88,1,0,0,5,exp(-x**2)*cos(17.88*x),-(71.52*x*sin(17.88*x) + 2*(2*x**2 - 1)*cos(17.88*x) - 319.6944*cos(17.88*x))*exp(-x**2) + 5*exp(-x**2)*cos(17.88*x),1,5
+53,oscillation,solution_freq,omega,18.13,1,0,0,5,exp(-x**2)*cos(18.13*x),-(72.52*x*sin(18.13*x) + 2*(2*x**2 - 1)*cos(18.13*x) - 328.6969*cos(18.13*x))*exp(-x**2) + 5*exp(-x**2)*cos(18.13*x),1,5
+54,oscillation,solution_freq,omega,18.38,1,0,0,5,exp(-x**2)*cos(18.38*x),-(73.52*x*sin(18.38*x) + 2*(2*x**2 - 1)*cos(18.38*x) - 337.8244*cos(18.38*x))*exp(-x**2) + 5*exp(-x**2)*cos(18.38*x),1,5
+55,oscillation,solution_freq,omega,18.64,1,0,0,5,exp(-x**2)*cos(18.64*x),-(74.56*x*sin(18.64*x) + 2*(2*x**2 - 1)*cos(18.64*x) - 347.4496*cos(18.64*x))*exp(-x**2) + 5*exp(-x**2)*cos(18.64*x),1,5
+56,oscillation,solution_freq,omega,18.89,1,0,0,5,exp(-x**2)*cos(18.89*x),-(75.56*x*sin(18.89*x) + 2*(2*x**2 - 1)*cos(18.89*x) - 356.8321*cos(18.89*x))*exp(-x**2) + 5*exp(-x**2)*cos(18.89*x),1,5
+57,oscillation,solution_freq,omega,19.14,1,0,0,5,exp(-x**2)*cos(19.14*x),-(76.56*x*sin(19.14*x) + 2*(2*x**2 - 1)*cos(19.14*x) - 366.3396*cos(19.14*x))*exp(-x**2) + 5*exp(-x**2)*cos(19.14*x),1,5
+58,oscillation,solution_freq,omega,19.39,1,0,0,5,exp(-x**2)*cos(19.39*x),-(77.56*x*sin(19.39*x) + 2*(2*x**2 - 1)*cos(19.39*x) - 375.9721*cos(19.39*x))*exp(-x**2) + 5*exp(-x**2)*cos(19.39*x),1,5
+59,oscillation,solution_freq,omega,19.65,1,0,0,5,exp(-x**2)*cos(19.65*x),-(78.6*x*sin(19.65*x) + 2*(2*x**2 - 1)*cos(19.65*x) - 386.1225*cos(19.65*x))*exp(-x**2) + 5*exp(-x**2)*cos(19.65*x),1,5
+60,oscillation,solution_freq,omega,19.9,1,0,0,5,exp(-x**2)*cos(19.9*x),-(79.6*x*sin(19.9*x) + 2*(2*x**2 - 1)*cos(19.9*x) - 396.01*cos(19.9*x))*exp(-x**2) + 5*exp(-x**2)*cos(19.9*x),1,5
+61,oscillation,solution_freq,omega,20.15,1,0,0,5,exp(-x**2)*cos(20.15*x),-(80.6*x*sin(20.15*x) + 2*(2*x**2 - 1)*cos(20.15*x) - 406.0225*cos(20.15*x))*exp(-x**2) + 5*exp(-x**2)*cos(20.15*x),1,5
+62,oscillation,solution_freq,omega,20.4,1,0,0,5,exp(-x**2)*cos(20.4*x),-(81.6*x*sin(20.4*x) + 2*(2*x**2 - 1)*cos(20.4*x) - 416.16*cos(20.4*x))*exp(-x**2) + 5*exp(-x**2)*cos(20.4*x),1,5
+63,oscillation,solution_freq,omega,20.66,1,0,0,5,exp(-x**2)*cos(20.66*x),-(82.64*x*sin(20.66*x) + 2*(2*x**2 - 1)*cos(20.66*x) - 426.8356*cos(20.66*x))*exp(-x**2) + 5*exp(-x**2)*cos(20.66*x),1,5
+64,oscillation,solution_freq,omega,20.91,1,0,0,5,exp(-x**2)*cos(20.91*x),-(83.64*x*sin(20.91*x) + 2*(2*x**2 - 1)*cos(20.91*x) - 437.2281*cos(20.91*x))*exp(-x**2) + 5*exp(-x**2)*cos(20.91*x),1,5
+65,oscillation,solution_freq,omega,21.16,1,0,0,5,exp(-x**2)*cos(21.16*x),-(84.64*x*sin(21.16*x) + 2*(2*x**2 - 1)*cos(21.16*x) - 447.7456*cos(21.16*x))*exp(-x**2) + 5*exp(-x**2)*cos(21.16*x),1,5
+66,oscillation,solution_freq,omega,21.41,1,0,0,5,exp(-x**2)*cos(21.41*x),-(85.64*x*sin(21.41*x) + 2*(2*x**2 - 1)*cos(21.41*x) - 458.3881*cos(21.41*x))*exp(-x**2) + 5*exp(-x**2)*cos(21.41*x),1,5
+67,oscillation,solution_freq,omega,21.67,1,0,0,5,exp(-x**2)*cos(21.67*x),-(86.68*x*sin(21.67*x) + 2*(2*x**2 - 1)*cos(21.67*x) - 469.5889*cos(21.67*x))*exp(-x**2) + 5*exp(-x**2)*cos(21.67*x),1,5
+68,oscillation,solution_freq,omega,21.92,1,0,0,5,exp(-x**2)*cos(21.92*x),-(87.68*x*sin(21.92*x) + 2*(2*x**2 - 1)*cos(21.92*x) - 480.4864*cos(21.92*x))*exp(-x**2) + 5*exp(-x**2)*cos(21.92*x),1,5
+69,oscillation,solution_freq,omega,22.17,1,0,0,5,exp(-x**2)*cos(22.17*x),-(88.68*x*sin(22.17*x) + 2*(2*x**2 - 1)*cos(22.17*x) - 491.5089*cos(22.17*x))*exp(-x**2) + 5*exp(-x**2)*cos(22.17*x),1,5
+70,oscillation,solution_freq,omega,22.42,1,0,0,5,exp(-x**2)*cos(22.42*x),-(89.68*x*sin(22.42*x) + 2*(2*x**2 - 1)*cos(22.42*x) - 502.6564*cos(22.42*x))*exp(-x**2) + 5*exp(-x**2)*cos(22.42*x),1,5
+71,oscillation,solution_freq,omega,22.68,1,0,0,5,exp(-x**2)*cos(22.68*x),-(90.72*x*sin(22.68*x) + 2*(2*x**2 - 1)*cos(22.68*x) - 514.3824*cos(22.68*x))*exp(-x**2) + 5*exp(-x**2)*cos(22.68*x),1,5
+72,oscillation,solution_freq,omega,22.93,1,0,0,5,exp(-x**2)*cos(22.93*x),-(91.72*x*sin(22.93*x) + 2*(2*x**2 - 1)*cos(22.93*x) - 525.7849*cos(22.93*x))*exp(-x**2) + 5*exp(-x**2)*cos(22.93*x),1,5
+73,oscillation,solution_freq,omega,23.18,1,0,0,5,exp(-x**2)*cos(23.18*x),-(92.72*x*sin(23.18*x) + 2*(2*x**2 - 1)*cos(23.18*x) - 537.3124*cos(23.18*x))*exp(-x**2) + 5*exp(-x**2)*cos(23.18*x),1,5
+74,oscillation,solution_freq,omega,23.43,1,0,0,5,exp(-x**2)*cos(23.43*x),-(93.72*x*sin(23.43*x) + 2*(2*x**2 - 1)*cos(23.43*x) - 548.9649*cos(23.43*x))*exp(-x**2) + 5*exp(-x**2)*cos(23.43*x),1,5
+75,oscillation,solution_freq,omega,23.69,1,0,0,5,exp(-x**2)*cos(23.69*x),-(94.76*x*sin(23.69*x) + 2*(2*x**2 - 1)*cos(23.69*x) - 561.2161*cos(23.69*x))*exp(-x**2) + 5*exp(-x**2)*cos(23.69*x),1,5
+76,oscillation,solution_freq,omega,23.94,1,0,0,5,exp(-x**2)*cos(23.94*x),-(95.76*x*sin(23.94*x) + 2*(2*x**2 - 1)*cos(23.94*x) - 573.1236*cos(23.94*x))*exp(-x**2) + 5*exp(-x**2)*cos(23.94*x),1,5
+77,oscillation,solution_freq,omega,24.19,1,0,0,5,exp(-x**2)*cos(24.19*x),-(96.76*x*sin(24.19*x) + 2*(2*x**2 - 1)*cos(24.19*x) - 585.1561*cos(24.19*x))*exp(-x**2) + 5*exp(-x**2)*cos(24.19*x),1,5
+78,oscillation,solution_freq,omega,24.44,1,0,0,5,exp(-x**2)*cos(24.44*x),-(97.76*x*sin(24.44*x) + 2*(2*x**2 - 1)*cos(24.44*x) - 597.3136*cos(24.44*x))*exp(-x**2) + 5*exp(-x**2)*cos(24.44*x),1,5
+79,oscillation,solution_freq,omega,24.7,1,0,0,5,exp(-x**2)*cos(24.7*x),-(98.8*x*sin(24.7*x) + 2*(2*x**2 - 1)*cos(24.7*x) - 610.09*cos(24.7*x))*exp(-x**2) + 5*exp(-x**2)*cos(24.7*x),1,5
+80,oscillation,solution_freq,omega,24.95,1,0,0,5,exp(-x**2)*cos(24.95*x),-(99.8*x*sin(24.95*x) + 2*(2*x**2 - 1)*cos(24.95*x) - 622.5025*cos(24.95*x))*exp(-x**2) + 5*exp(-x**2)*cos(24.95*x),1,5
+81,oscillation,solution_freq,omega,25.2,1,0,0,5,exp(-x**2)*cos(25.2*x),-(100.8*x*sin(25.2*x) + 2*(2*x**2 - 1)*cos(25.2*x) - 635.04*cos(25.2*x))*exp(-x**2) + 5*exp(-x**2)*cos(25.2*x),1,5
+82,oscillation,solution_freq,omega,25.45,1,0,0,5,exp(-x**2)*cos(25.45*x),-(101.8*x*sin(25.45*x) + 2*(2*x**2 - 1)*cos(25.45*x) - 647.7025*cos(25.45*x))*exp(-x**2) + 5*exp(-x**2)*cos(25.45*x),1,5
+83,oscillation,solution_freq,omega,25.71,1,0,0,5,exp(-x**2)*cos(25.71*x),-(102.84*x*sin(25.71*x) + 2*(2*x**2 - 1)*cos(25.71*x) - 661.0041*cos(25.71*x))*exp(-x**2) + 5*exp(-x**2)*cos(25.71*x),1,5
+84,oscillation,solution_freq,omega,25.96,1,0,0,5,exp(-x**2)*cos(25.96*x),-(103.84*x*sin(25.96*x) + 2*(2*x**2 - 1)*cos(25.96*x) - 673.9216*cos(25.96*x))*exp(-x**2) + 5*exp(-x**2)*cos(25.96*x),1,5
+85,oscillation,solution_freq,omega,26.21,1,0,0,5,exp(-x**2)*cos(26.21*x),-(104.84*x*sin(26.21*x) + 2*(2*x**2 - 1)*cos(26.21*x) - 686.9641*cos(26.21*x))*exp(-x**2) + 5*exp(-x**2)*cos(26.21*x),1,5
+86,oscillation,solution_freq,omega,26.46,1,0,0,5,exp(-x**2)*cos(26.46*x),-(105.84*x*sin(26.46*x) + 2*(2*x**2 - 1)*cos(26.46*x) - 700.1316*cos(26.46*x))*exp(-x**2) + 5*exp(-x**2)*cos(26.46*x),1,5
+87,oscillation,solution_freq,omega,26.72,1,0,0,5,exp(-x**2)*cos(26.72*x),-(106.88*x*sin(26.72*x) + 2*(2*x**2 - 1)*cos(26.72*x) - 713.9584*cos(26.72*x))*exp(-x**2) + 5*exp(-x**2)*cos(26.72*x),1,5
+88,oscillation,solution_freq,omega,26.97,1,0,0,5,exp(-x**2)*cos(26.97*x),-(107.88*x*sin(26.97*x) + 2*(2*x**2 - 1)*cos(26.97*x) - 727.3809*cos(26.97*x))*exp(-x**2) + 5*exp(-x**2)*cos(26.97*x),1,5
+89,oscillation,solution_freq,omega,27.22,1,0,0,5,exp(-x**2)*cos(27.22*x),-(108.88*x*sin(27.22*x) + 2*(2*x**2 - 1)*cos(27.22*x) - 740.9284*cos(27.22*x))*exp(-x**2) + 5*exp(-x**2)*cos(27.22*x),1,5
+90,oscillation,solution_freq,omega,27.47,1,0,0,5,exp(-x**2)*cos(27.47*x),-(109.88*x*sin(27.47*x) + 2*(2*x**2 - 1)*cos(27.47*x) - 754.6009*cos(27.47*x))*exp(-x**2) + 5*exp(-x**2)*cos(27.47*x),1,5
+91,oscillation,solution_freq,omega,27.73,1,0,0,5,exp(-x**2)*cos(27.73*x),-(110.92*x*sin(27.73*x) + 2*(2*x**2 - 1)*cos(27.73*x) - 768.9529*cos(27.73*x))*exp(-x**2) + 5*exp(-x**2)*cos(27.73*x),1,5
+92,oscillation,solution_freq,omega,27.98,1,0,0,5,exp(-x**2)*cos(27.98*x),-(111.92*x*sin(27.98*x) + 2*(2*x**2 - 1)*cos(27.98*x) - 782.8804*cos(27.98*x))*exp(-x**2) + 5*exp(-x**2)*cos(27.98*x),1,5
+93,oscillation,solution_freq,omega,28.23,1,0,0,5,exp(-x**2)*cos(28.23*x),-(112.92*x*sin(28.23*x) + 2*(2*x**2 - 1)*cos(28.23*x) - 796.9329*cos(28.23*x))*exp(-x**2) + 5*exp(-x**2)*cos(28.23*x),1,5
+94,oscillation,solution_freq,omega,28.48,1,0,0,5,exp(-x**2)*cos(28.48*x),-(113.92*x*sin(28.48*x) + 2*(2*x**2 - 1)*cos(28.48*x) - 811.1104*cos(28.48*x))*exp(-x**2) + 5*exp(-x**2)*cos(28.48*x),1,5
+95,oscillation,solution_freq,omega,28.74,1,0,0,5,exp(-x**2)*cos(28.74*x),-(114.96*x*sin(28.74*x) + 2*(2*x**2 - 1)*cos(28.74*x) - 825.9876*cos(28.74*x))*exp(-x**2) + 5*exp(-x**2)*cos(28.74*x),1,5
+96,oscillation,solution_freq,omega,28.99,1,0,0,5,exp(-x**2)*cos(28.99*x),-(115.96*x*sin(28.99*x) + 2*(2*x**2 - 1)*cos(28.99*x) - 840.4201*cos(28.99*x))*exp(-x**2) + 5*exp(-x**2)*cos(28.99*x),1,5
+97,oscillation,solution_freq,omega,29.24,1,0,0,5,exp(-x**2)*cos(29.24*x),-(116.96*x*sin(29.24*x) + 2*(2*x**2 - 1)*cos(29.24*x) - 854.9776*cos(29.24*x))*exp(-x**2) + 5*exp(-x**2)*cos(29.24*x),1,5
+98,oscillation,solution_freq,omega,29.49,1,0,0,5,exp(-x**2)*cos(29.49*x),-(117.96*x*sin(29.49*x) + 2*(2*x**2 - 1)*cos(29.49*x) - 869.6601*cos(29.49*x))*exp(-x**2) + 5*exp(-x**2)*cos(29.49*x),1,5
+99,oscillation,solution_freq,omega,29.75,1,0,0,5,exp(-x**2)*cos(29.75*x),-(119.0*x*sin(29.75*x) + 2*(2*x**2 - 1)*cos(29.75*x) - 885.0625*cos(29.75*x))*exp(-x**2) + 5*exp(-x**2)*cos(29.75*x),1,5
+100,oscillation,solution_freq,omega,30,1,0,0,5,exp(-x**2)*cos(30.0*x),-(120.0*x*sin(30.0*x) + 2*(2*x**2 - 1)*cos(30.0*x) - 900.0*cos(30.0*x))*exp(-x**2) + 5*exp(-x**2)*cos(30.0*x),1,5
+101,oscillation,c_freq,omega,2,1,0,4*sin(2.0*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(2.0*x) - 5)*exp(-2*x**2),1,1
+102,oscillation,c_freq,omega,2.283,1,0,4*sin(2.283*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(2.283*x) - 5)*exp(-2*x**2),1,1
+103,oscillation,c_freq,omega,2.566,1,0,4*sin(2.566*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(2.566*x) - 5)*exp(-2*x**2),1,1
+104,oscillation,c_freq,omega,2.848,1,0,4*sin(2.848*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(2.848*x) - 5)*exp(-2*x**2),1,1
+105,oscillation,c_freq,omega,3.131,1,0,4*sin(3.131*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(3.131*x) - 5)*exp(-2*x**2),1,1
+106,oscillation,c_freq,omega,3.414,1,0,4*sin(3.414*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(3.414*x) - 5)*exp(-2*x**2),1,1
+107,oscillation,c_freq,omega,3.697,1,0,4*sin(3.697*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(3.697*x) - 5)*exp(-2*x**2),1,1
+108,oscillation,c_freq,omega,3.98,1,0,4*sin(3.98*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(3.98*x) - 5)*exp(-2*x**2),1,1
+109,oscillation,c_freq,omega,4.263,1,0,4*sin(4.263*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(4.263*x) - 5)*exp(-2*x**2),1,1
+110,oscillation,c_freq,omega,4.545,1,0,4*sin(4.545*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(4.545*x) - 5)*exp(-2*x**2),1,1
+111,oscillation,c_freq,omega,4.828,1,0,4*sin(4.828*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(4.828*x) - 5)*exp(-2*x**2),1,1
+112,oscillation,c_freq,omega,5.111,1,0,4*sin(5.111*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(5.111*x) - 5)*exp(-2*x**2),1,1
+113,oscillation,c_freq,omega,5.394,1,0,4*sin(5.394*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(5.394*x) - 5)*exp(-2*x**2),1,1
+114,oscillation,c_freq,omega,5.677,1,0,4*sin(5.677*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(5.677*x) - 5)*exp(-2*x**2),1,1
+115,oscillation,c_freq,omega,5.96,1,0,4*sin(5.96*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(5.96*x) - 5)*exp(-2*x**2),1,1
+116,oscillation,c_freq,omega,6.242,1,0,4*sin(6.242*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(6.242*x) - 5)*exp(-2*x**2),1,1
+117,oscillation,c_freq,omega,6.525,1,0,4*sin(6.525*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(6.525*x) - 5)*exp(-2*x**2),1,1
+118,oscillation,c_freq,omega,6.808,1,0,4*sin(6.808*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(6.808*x) - 5)*exp(-2*x**2),1,1
+119,oscillation,c_freq,omega,7.091,1,0,4*sin(7.091*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(7.091*x) - 5)*exp(-2*x**2),1,1
+120,oscillation,c_freq,omega,7.374,1,0,4*sin(7.374*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(7.374*x) - 5)*exp(-2*x**2),1,1
+121,oscillation,c_freq,omega,7.657,1,0,4*sin(7.657*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(7.657*x) - 5)*exp(-2*x**2),1,1
+122,oscillation,c_freq,omega,7.939,1,0,4*sin(7.939*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(7.939*x) - 5)*exp(-2*x**2),1,1
+123,oscillation,c_freq,omega,8.222,1,0,4*sin(8.222*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(8.222*x) - 5)*exp(-2*x**2),1,1
+124,oscillation,c_freq,omega,8.505,1,0,4*sin(8.505*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(8.505*x) - 5)*exp(-2*x**2),1,1
+125,oscillation,c_freq,omega,8.788,1,0,4*sin(8.788*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(8.788*x) - 5)*exp(-2*x**2),1,1
+126,oscillation,c_freq,omega,9.071,1,0,4*sin(9.071*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(9.071*x) - 5)*exp(-2*x**2),1,1
+127,oscillation,c_freq,omega,9.354,1,0,4*sin(9.354*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(9.354*x) - 5)*exp(-2*x**2),1,1
+128,oscillation,c_freq,omega,9.636,1,0,4*sin(9.636*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(9.636*x) - 5)*exp(-2*x**2),1,1
+129,oscillation,c_freq,omega,9.919,1,0,4*sin(9.919*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(9.919*x) - 5)*exp(-2*x**2),1,1
+130,oscillation,c_freq,omega,10.2,1,0,4*sin(10.2*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(10.2*x) - 5)*exp(-2*x**2),1,1
+131,oscillation,c_freq,omega,10.48,1,0,4*sin(10.48*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(10.48*x) - 5)*exp(-2*x**2),1,1
+132,oscillation,c_freq,omega,10.77,1,0,4*sin(10.77*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(10.77*x) - 5)*exp(-2*x**2),1,1
+133,oscillation,c_freq,omega,11.05,1,0,4*sin(11.05*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(11.05*x) - 5)*exp(-2*x**2),1,1
+134,oscillation,c_freq,omega,11.33,1,0,4*sin(11.33*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(11.33*x) - 5)*exp(-2*x**2),1,1
+135,oscillation,c_freq,omega,11.62,1,0,4*sin(11.62*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(11.62*x) - 5)*exp(-2*x**2),1,1
+136,oscillation,c_freq,omega,11.9,1,0,4*sin(11.9*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(11.9*x) - 5)*exp(-2*x**2),1,1
+137,oscillation,c_freq,omega,12.18,1,0,4*sin(12.18*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(12.18*x) - 5)*exp(-2*x**2),1,1
+138,oscillation,c_freq,omega,12.46,1,0,4*sin(12.46*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(12.46*x) - 5)*exp(-2*x**2),1,1
+139,oscillation,c_freq,omega,12.75,1,0,4*sin(12.75*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(12.75*x) - 5)*exp(-2*x**2),1,1
+140,oscillation,c_freq,omega,13.03,1,0,4*sin(13.03*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(13.03*x) - 5)*exp(-2*x**2),1,1
+141,oscillation,c_freq,omega,13.31,1,0,4*sin(13.31*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(13.31*x) - 5)*exp(-2*x**2),1,1
+142,oscillation,c_freq,omega,13.6,1,0,4*sin(13.6*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(13.6*x) - 5)*exp(-2*x**2),1,1
+143,oscillation,c_freq,omega,13.88,1,0,4*sin(13.88*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(13.88*x) - 5)*exp(-2*x**2),1,1
+144,oscillation,c_freq,omega,14.16,1,0,4*sin(14.16*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(14.16*x) - 5)*exp(-2*x**2),1,1
+145,oscillation,c_freq,omega,14.44,1,0,4*sin(14.44*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(14.44*x) - 5)*exp(-2*x**2),1,1
+146,oscillation,c_freq,omega,14.73,1,0,4*sin(14.73*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(14.73*x) - 5)*exp(-2*x**2),1,1
+147,oscillation,c_freq,omega,15.01,1,0,4*sin(15.01*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(15.01*x) - 5)*exp(-2*x**2),1,1
+148,oscillation,c_freq,omega,15.29,1,0,4*sin(15.29*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(15.29*x) - 5)*exp(-2*x**2),1,1
+149,oscillation,c_freq,omega,15.58,1,0,4*sin(15.58*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(15.58*x) - 5)*exp(-2*x**2),1,1
+150,oscillation,c_freq,omega,15.86,1,0,4*sin(15.86*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(15.86*x) - 5)*exp(-2*x**2),1,1
+151,oscillation,c_freq,omega,16.14,1,0,4*sin(16.14*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(16.14*x) - 5)*exp(-2*x**2),1,1
+152,oscillation,c_freq,omega,16.42,1,0,4*sin(16.42*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(16.42*x) - 5)*exp(-2*x**2),1,1
+153,oscillation,c_freq,omega,16.71,1,0,4*sin(16.71*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(16.71*x) - 5)*exp(-2*x**2),1,1
+154,oscillation,c_freq,omega,16.99,1,0,4*sin(16.99*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(16.99*x) - 5)*exp(-2*x**2),1,1
+155,oscillation,c_freq,omega,17.27,1,0,4*sin(17.27*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(17.27*x) - 5)*exp(-2*x**2),1,1
+156,oscillation,c_freq,omega,17.56,1,0,4*sin(17.56*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(17.56*x) - 5)*exp(-2*x**2),1,1
+157,oscillation,c_freq,omega,17.84,1,0,4*sin(17.84*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(17.84*x) - 5)*exp(-2*x**2),1,1
+158,oscillation,c_freq,omega,18.12,1,0,4*sin(18.12*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(18.12*x) - 5)*exp(-2*x**2),1,1
+159,oscillation,c_freq,omega,18.4,1,0,4*sin(18.4*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(18.4*x) - 5)*exp(-2*x**2),1,1
+160,oscillation,c_freq,omega,18.69,1,0,4*sin(18.69*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(18.69*x) - 5)*exp(-2*x**2),1,1
+161,oscillation,c_freq,omega,18.97,1,0,4*sin(18.97*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(18.97*x) - 5)*exp(-2*x**2),1,1
+162,oscillation,c_freq,omega,19.25,1,0,4*sin(19.25*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(19.25*x) - 5)*exp(-2*x**2),1,1
+163,oscillation,c_freq,omega,19.54,1,0,4*sin(19.54*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(19.54*x) - 5)*exp(-2*x**2),1,1
+164,oscillation,c_freq,omega,19.82,1,0,4*sin(19.82*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(19.82*x) - 5)*exp(-2*x**2),1,1
+165,oscillation,c_freq,omega,20.1,1,0,4*sin(20.1*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(20.1*x) - 5)*exp(-2*x**2),1,1
+166,oscillation,c_freq,omega,20.38,1,0,4*sin(20.38*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(20.38*x) - 5)*exp(-2*x**2),1,1
+167,oscillation,c_freq,omega,20.67,1,0,4*sin(20.67*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(20.67*x) - 5)*exp(-2*x**2),1,1
+168,oscillation,c_freq,omega,20.95,1,0,4*sin(20.95*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(20.95*x) - 5)*exp(-2*x**2),1,1
+169,oscillation,c_freq,omega,21.23,1,0,4*sin(21.23*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(21.23*x) - 5)*exp(-2*x**2),1,1
+170,oscillation,c_freq,omega,21.52,1,0,4*sin(21.52*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(21.52*x) - 5)*exp(-2*x**2),1,1
+171,oscillation,c_freq,omega,21.8,1,0,4*sin(21.8*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(21.8*x) - 5)*exp(-2*x**2),1,1
+172,oscillation,c_freq,omega,22.08,1,0,4*sin(22.08*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(22.08*x) - 5)*exp(-2*x**2),1,1
+173,oscillation,c_freq,omega,22.36,1,0,4*sin(22.36*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(22.36*x) - 5)*exp(-2*x**2),1,1
+174,oscillation,c_freq,omega,22.65,1,0,4*sin(22.65*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(22.65*x) - 5)*exp(-2*x**2),1,1
+175,oscillation,c_freq,omega,22.93,1,0,4*sin(22.93*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(22.93*x) - 5)*exp(-2*x**2),1,1
+176,oscillation,c_freq,omega,23.21,1,0,4*sin(23.21*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(23.21*x) - 5)*exp(-2*x**2),1,1
+177,oscillation,c_freq,omega,23.49,1,0,4*sin(23.49*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(23.49*x) - 5)*exp(-2*x**2),1,1
+178,oscillation,c_freq,omega,23.78,1,0,4*sin(23.78*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(23.78*x) - 5)*exp(-2*x**2),1,1
+179,oscillation,c_freq,omega,24.06,1,0,4*sin(24.06*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(24.06*x) - 5)*exp(-2*x**2),1,1
+180,oscillation,c_freq,omega,24.34,1,0,4*sin(24.34*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(24.34*x) - 5)*exp(-2*x**2),1,1
+181,oscillation,c_freq,omega,24.63,1,0,4*sin(24.63*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(24.63*x) - 5)*exp(-2*x**2),1,1
+182,oscillation,c_freq,omega,24.91,1,0,4*sin(24.91*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(24.91*x) - 5)*exp(-2*x**2),1,1
+183,oscillation,c_freq,omega,25.19,1,0,4*sin(25.19*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(25.19*x) - 5)*exp(-2*x**2),1,1
+184,oscillation,c_freq,omega,25.47,1,0,4*sin(25.47*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(25.47*x) - 5)*exp(-2*x**2),1,1
+185,oscillation,c_freq,omega,25.76,1,0,4*sin(25.76*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(25.76*x) - 5)*exp(-2*x**2),1,1
+186,oscillation,c_freq,omega,26.04,1,0,4*sin(26.04*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(26.04*x) - 5)*exp(-2*x**2),1,1
+187,oscillation,c_freq,omega,26.32,1,0,4*sin(26.32*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(26.32*x) - 5)*exp(-2*x**2),1,1
+188,oscillation,c_freq,omega,26.61,1,0,4*sin(26.61*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(26.61*x) - 5)*exp(-2*x**2),1,1
+189,oscillation,c_freq,omega,26.89,1,0,4*sin(26.89*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(26.89*x) - 5)*exp(-2*x**2),1,1
+190,oscillation,c_freq,omega,27.17,1,0,4*sin(27.17*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(27.17*x) - 5)*exp(-2*x**2),1,1
+191,oscillation,c_freq,omega,27.45,1,0,4*sin(27.45*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(27.45*x) - 5)*exp(-2*x**2),1,1
+192,oscillation,c_freq,omega,27.74,1,0,4*sin(27.74*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(27.74*x) - 5)*exp(-2*x**2),1,1
+193,oscillation,c_freq,omega,28.02,1,0,4*sin(28.02*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(28.02*x) - 5)*exp(-2*x**2),1,1
+194,oscillation,c_freq,omega,28.3,1,0,4*sin(28.3*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(28.3*x) - 5)*exp(-2*x**2),1,1
+195,oscillation,c_freq,omega,28.59,1,0,4*sin(28.59*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(28.59*x) - 5)*exp(-2*x**2),1,1
+196,oscillation,c_freq,omega,28.87,1,0,4*sin(28.87*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(28.87*x) - 5)*exp(-2*x**2),1,1
+197,oscillation,c_freq,omega,29.15,1,0,4*sin(29.15*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(29.15*x) - 5)*exp(-2*x**2),1,1
+198,oscillation,c_freq,omega,29.43,1,0,4*sin(29.43*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(29.43*x) - 5)*exp(-2*x**2),1,1
+199,oscillation,c_freq,omega,29.72,1,0,4*sin(29.72*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(29.72*x) - 5)*exp(-2*x**2),1,1
+200,oscillation,c_freq,omega,30,1,0,4*sin(30.0*x),5,exp(-2*x**2),-4*(4*x**2 - 1)*exp(-2*x**2) - (4*sin(30.0*x) - 5)*exp(-2*x**2),1,1
